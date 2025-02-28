@@ -32,7 +32,7 @@ export default function SupportPage() {
         </CardContent>
       </Card>
       <div className="mt-6 text-center">
-        <p>Need urgent help? Email us at <a href="oscarbreen05@gmail.com" className="text-blue-500">support@alldoneco.com</a></p>
+        <p>Need urgent help? Email us at <a href="oscarbreen05@gmail.com" className="text-blue-500">oscarbreen05@gmail.com</a></p>
       </div>
     </div>
   );
